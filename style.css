@@ -1,0 +1,14 @@
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.Best{
+    background-color: cyan;
+
+}
+.Good{
+    background-color: blue;
+}
+.yellow{
+    background-color: yellow;
+}
